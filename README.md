@@ -8,7 +8,7 @@ Un navegador web gráfico, rápido y versátil desarrollado 100% en Python nativ
 
 ## 📌 Contexto Académico
 
-Este software fue construido como proyecto semestral para la asignatura de segundo año **Proyecto de Programación** en la Universidad por un equipo académico de 4 estudiantes. El objetivo principal fue crear un navegador web funcional sin utilizar frameworks web ni librerías externas (como Selenium, PyQt o motores embebidos), programando la lógica de red e interfaz gráfica exclusivamente mediante la biblioteca estándar de Python.
+Este software fue construido como proyecto semestral para la asignatura de segundo año **Proyecto de Programación** en la Universidad por un equipo de 4 estudiantes. El objetivo principal fue crear un navegador web funcional sin utilizar frameworks web ni librerías externas (como Selenium, PyQt o motores embebidos), programando la lógica de red e interfaz gráfica exclusivamente mediante la biblioteca estándar de Python.
 
 ## ✨ Características Principales
 
@@ -17,6 +17,7 @@ Este software fue construido como proyecto semestral para la asignatura de segun
 * **🕒 Historial de Navegación:** Registro temporal de sitios visitados con botones de navegación Atrás/Adelante.
 * **🚀 Motor HTTP Propio:** Gestión completa de peticiones TCP, redirecciones en cadena y negociación de certificados SSL nativos.
 * **🎨 Motor de Renderizado Estructurado:** Transforma etiquetas HTML crudas (`<h1>`, `<p>`, `<table>`, `<a>`) en componentes gráficos nativos de escritorio en tiempo real.
+* **🔍 Motor de Búsqueda Interno (MemeFinder):** Sistema integrado con base de respuestas predefinidas, coincidencias flexibles en la barra omnibox y renderizado dinámico de resultados estructurados (títulos, descripciones y enlaces interactivos).
 * **📑 Interfaz Multi-Pestaña:** Sistema multi-pestaña con pantalla de bienvenida central estructurada, barra de direcciones omnibox e indicadores de estado.
 * **🤖 Asistente IA Integrado:** Panel flotante lateral inteligente para consultar dudas o resumir el contenido de la página actual.
 * **🌓 Temas Visuales:** Paletas adaptativas con modos Noche, Claro, Sepia y Slate.
