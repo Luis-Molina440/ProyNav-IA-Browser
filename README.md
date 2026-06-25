@@ -3,8 +3,8 @@
 Un navegador web gráfico, rápido y versátil desarrollado 100% en Python nativo. Diseñado para navegar páginas en internet e inspeccionar archivos HTML locales del escritorio, con motor de red propio, renderizado dinámico de etiquetas e Inteligencia Artificial integrada.
 
 <!-- 📸 FOTO 1: VISTA PRINCIPAL DEL NAVEGADOR -->
-![Vista Principal del Navegador](<img width="1363" height="767" alt="image" src="https://github.com/user-attachments/assets/c0b22cf4-d78b-49e1-bf9e-54dd7824bf5e" />
-)
+<img width="1363" height="767" alt="image" src="https://github.com/user-attachments/assets/c0b22cf4-d78b-49e1-bf9e-54dd7824bf5e" />
+
 
 ## 📌 Contexto Académico
 
