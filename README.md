@@ -36,7 +36,7 @@ Dentro del equipo de trabajo de 4 integrantes, estuve a cargo de diseñar y prog
    * Creación y posicionamiento dinámico de widgets de escritorio (`tk.Label`, `tk.Text`, botones y tablas) aplicando adaptaciones proporcionales y paletas de color en pantalla.
 
 <!-- 📸 FOTO 2: DEMOSTRACIÓN DE RENDERING DE TABLAS Y HTML -->
-![Demostración de Renderizado HTML](./docs/screenshots/render_demo.png)
+<img width="1363" height="767" alt="image" src="https://github.com/user-attachments/assets/44744b6f-b47f-4bce-9f2e-3d4f6472a0be" />
 
 ## 🛠️ Tecnologías Utilizadas
 
